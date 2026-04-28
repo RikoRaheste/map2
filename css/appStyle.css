@@ -12,7 +12,7 @@ body {
   z-index: 1;
 }
 
-#map-title {
+map-title {
   position: absolute;
   top: 10px;
   left: 50%;
@@ -27,7 +27,7 @@ body {
   font-weight: bold;
 }
 
-#button {
+button {
   position: absolute;
   top: 10px;
   left: 10px;
